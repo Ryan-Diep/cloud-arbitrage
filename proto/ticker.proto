@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+package crypto;
+
+option go_package = "github.com/Ryan-Diep/cloud-arbitrage/pkg/model";
+
+message Ticker {
+  string source = 1;
+  string symbol = 2;
+  double price = 3;
+  int64 timestamp = 4;
+}
