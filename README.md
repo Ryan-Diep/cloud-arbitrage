@@ -1,6 +1,9 @@
 # Crypto Arbitrage Monitor
 
 Real-time cryptocurrency arbitrage detection system across **Coinbase, Binance, Bybit, OKX**
+<img width="1633" height="1190" alt="image" src="https://github.com/user-attachments/assets/6ec9aaeb-38dd-4ee2-a2c8-a62a8b468df6" />
+<img width="1635" height="1016" alt="image" src="https://github.com/user-attachments/assets/cb31d5e1-0721-46aa-bade-8f9ec70badd9" />
+
 
 ## Architecture
 
